@@ -18,7 +18,7 @@ for file in os.listdir("data"):
         image_container = soup.find('div', class_='s-product-image-container')
         img_tag = image_container.find('img', class_='s-image')['src']
         rating = soup.find('span', class_='a-icon-alt').get_text()
-
+    
 
         #Storing the data into dictionary
         data["title"].append(title)
