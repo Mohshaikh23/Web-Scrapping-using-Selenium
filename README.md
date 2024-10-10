@@ -132,7 +132,3 @@ If you'd like to contribute to this project:
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgments
-
-Special thanks to the open-source Python libraries and frameworks that made this project possible!
