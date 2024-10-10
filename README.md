@@ -33,7 +33,7 @@ This project is an Amazon product web scraper built using **Selenium** and a **S
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Mohshaikh23/Web-Scrapping-using-Selenium.git
    ```
 2. Navigate to the project directory:
    ```bash
